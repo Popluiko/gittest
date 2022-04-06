@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher, executor, types
 import markup as nav
 import sqlite3
 
-API_TOKEN = '1490660425:AAFviffzLzhiUENpR-zEQDln2uuHUBX34Fg'
+API_TOKEN = ''
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)

@@ -1,0 +1,9 @@
+ASKS all orders 4401.53
+BIDS all orders 4918.78
+Grad 9.46°
+ASKS quantity all orders 11305
+BIDS quantity all orders 11043
+ASKS avg order 0.38934
+BIDS avg order 0.44542
+Time is last request 
+2022-4-6 15:55:10
